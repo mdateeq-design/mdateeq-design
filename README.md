@@ -1,26 +1,4 @@
 <h1 align='center'>Hi 👋, I'm Md Ateeq</h1>
-<h3 align='center'>Computer Science Engineering Student | Aspiring Software Engineer</h3>
-
-- 🌱 Learning **Java, DSA, React, Node.js**
-- 🎯 Preparing for Software Engineering placements
-- 💻 Building Full-Stack and AI-powered applications
-
-## 🛠 Tech Stack
-Java • JavaScript • HTML • CSS • React • Node.js • Express • MySQL • Git • GitHub
-
-## 🚀 Featured Projects
-- 🛒 Cartify Ecommerce Website
-- 📋 Task Management App
-- 🌐 Portfolio Website
-- 🧠 Quiz Quest
-- 💰 Digikhata
-
-## 📈 2026 Goals
-- Solve 300+ DSA problems
-- Build production-ready projects
-- Secure a Software Engineer role
-
-## 🤝 Connect
-GitHub: https://github.com/mdateeq-design
-
-> More improvements (GitHub stats cards and contribution graphs) can be added after enabling external image badges.
+<h3 align='center'>Aspiring Software Engineer | Full-Stack Developer | B.Tech CSE</h3>
+<p align='center'><img src='https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;Java+%7C+React+%7C+Node.js;DSA+Learner;Open+to+Internships+%26+SDE+Roles' /></p>
+<h2>👨‍💻 About Me</h2><ul><li>🎓 B.Tech CSE student</li><li>💻 Building modern web and AI applications</li><li>🌱 Learning Java, DSA, React, Node.js</li><li>🎯 Seeking Software Engineer opportunities</li></ul><h2>🛠️ Tech Stack</h2><p><img src='https://skillicons.dev/icons?i=java,js,html,css,react,nodejs,express,mysql,git,github,vscode'/></p><h2>📊 GitHub Stats</h2><img src='https://github-readme-stats.vercel.app/api?username=mdateeq-design&show_icons=true&theme=tokyonight'/><br><img src='https://streak-stats.demolab.com?user=mdateeq-design&theme=tokyonight'/><br><img src='https://github-readme-stats.vercel.app/api/top-langs/?username=mdateeq-design&layout=compact&theme=tokyonight'/><h2>🏆 Trophies</h2><img src='https://github-profile-trophy.vercel.app/?username=mdateeq-design&theme=tokyonight&row=1&column=6'/><h2>🚀 Featured Projects</h2><ul><li>Cartify Ecommerce</li><li>Task Management App</li><li>Portfolio</li><li>Quiz Quest</li><li>Digikhata</li></ul><h2>📈 Contribution Graph</h2><img src='https://github-readme-activity-graph.vercel.app/graph?username=mdateeq-design&theme=tokyo-night'/><h2>📫 Connect</h2><a href='https://github.com/mdateeq-design'><img src='https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github'/></a> <a href='mailto:your-email@example.com'><img src='https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail'/></a><p align='center'>⭐ Thanks for visiting my profile!</p>

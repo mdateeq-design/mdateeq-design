@@ -1,31 +1,26 @@
-# Hi, I'm Md Ateeq 👋
+<h1 align='center'>Hi 👋, I'm Md Ateeq</h1>
+<h3 align='center'>Computer Science Engineering Student | Aspiring Software Engineer</h3>
 
-🎓 B.Tech Computer Science Engineering Student
+- 🌱 Learning **Java, DSA, React, Node.js**
+- 🎯 Preparing for Software Engineering placements
+- 💻 Building Full-Stack and AI-powered applications
 
-💻 Aspiring Full-Stack Developer | Java | React | Node.js
+## 🛠 Tech Stack
+Java • JavaScript • HTML • CSS • React • Node.js • Express • MySQL • Git • GitHub
 
-## 🚀 About Me
-- 🌱 Currently learning Java, DSA, React and Backend Development
-- 🎯 Preparing for Software Engineer roles
-- 💡 Interested in Web Development and AI projects
-
-## 🛠️ Tech Stack
-- Java
-- JavaScript
-- HTML5
-- CSS3
-- React
-- Node.js
-- Express.js
-- MySQL
-- Git & GitHub
-
-## 📌 Featured Projects
+## 🚀 Featured Projects
 - 🛒 Cartify Ecommerce Website
 - 📋 Task Management App
 - 🌐 Portfolio Website
 - 🧠 Quiz Quest
 - 💰 Digikhata
 
-## 📫 Connect
-- GitHub: https://github.com/mdateeq-design
+## 📈 2026 Goals
+- Solve 300+ DSA problems
+- Build production-ready projects
+- Secure a Software Engineer role
+
+## 🤝 Connect
+GitHub: https://github.com/mdateeq-design
+
+> More improvements (GitHub stats cards and contribution graphs) can be added after enabling external image badges.
